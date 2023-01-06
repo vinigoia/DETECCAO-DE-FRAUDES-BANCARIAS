@@ -8,7 +8,7 @@
 
 Análise de Dados públicos disponibilizados pelo Kaggle para criação e avaliação de Modelos de Machine Learning.
 
-[Link para o projeto completo](https://github.com/vinigoia/Analise-de-Dados-do-COVID-19/blob/main/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_Relacionados_ao_COVID_19.ipynb)
+[Link para o projeto completo](https://github.com/vinigoia/DETECCAO-DE-FRAUDES-BANCARIAS/blob/main/Modelo_para_Detec%C3%A7%C3%A3o_de_Fraudes_Banc%C3%A1rias_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 **Links para me acharem:**
 
